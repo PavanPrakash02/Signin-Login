@@ -1,0 +1,22 @@
+.login_button,.sign_in_button{
+    background-color: aqua;
+    font-size: 14px;
+    text-size-adjust: 10px;
+    border:none;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    color: black;
+    cursor: pointer;
+}
+.login_button{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.sign_in_button{
+    position: absolute;
+    top:60%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
